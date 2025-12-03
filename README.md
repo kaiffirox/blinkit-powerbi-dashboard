@@ -31,5 +31,8 @@ The goal was to help Blinkit improve sales performance and customer satisfaction
 ## 📸 Dashboard Preview
 Preview: https://github.com/kaiffirox/blinkit-powerbi-dashboard/blob/main/Blinkit%20Dashboard%20Snapshot.png
 
+<img width="1492" height="856" alt="image" src="https://github.com/user-attachments/assets/1a358320-228e-4079-a87d-ac4a5f7787cb" />
+
+
 ## 🧠 Author
 Mohammad Kaif Firoz
