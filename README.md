@@ -29,7 +29,7 @@ The goal was to help Blinkit improve sales performance and customer satisfaction
 - **Project Storytelling** – Business Problem, Scope, Insights  
 
 ## 📸 Dashboard Preview
-https://github.com/kaiffirox/blinkit-powerbi-dashboard/blob/main/Blinkit%20Dashboard%20Snapshot.png
+Preview: https://github.com/kaiffirox/blinkit-powerbi-dashboard/blob/main/Blinkit%20Dashboard%20Snapshot.png
 
 ## 🧠 Author
 Mohammad Kaif Firoz
